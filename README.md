@@ -1,5 +1,3 @@
-# 🔢 Binary Classification using Logistic Regression
-
 # 🏦 Bank Customer Churn Prediction – Logistic Regression
 
 ## 1️⃣ Project Overview
